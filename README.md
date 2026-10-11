@@ -1,6 +1,7 @@
 # Compile++
 
-Compile++ is a small native macOS C++ IDE. It embeds real terminal sessions for Vim, build output, and GDB.
+Compile++ is a small **vibe-coded** native macOS C++ IDE. It embeds real terminal sessions for Vim, build output, and GDB.
+AI Model Used: ChatGPT-5.6
 
 ## Use
 
