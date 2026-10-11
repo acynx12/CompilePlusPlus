@@ -1,5 +1,7 @@
 # Compile++
 
+![Uploading image.png…]()
+
 Compile++ is a small **vibe-coded** native macOS C++ IDE. It embeds real terminal sessions for Vim, build output, and GDB.
 
 AI Model Used: ChatGPT-5.6
