@@ -1,6 +1,6 @@
 # Compile++
 
-![Uploading image.png…]()
+<img width="1220" height="945" alt="image" src="https://github.com/user-attachments/assets/df03e823-8d51-4614-b8f8-2e7c8b4feea2" />
 
 Compile++ is a small **vibe-coded** native macOS C++ IDE. It embeds real terminal sessions for Vim, build output, and GDB.
 
